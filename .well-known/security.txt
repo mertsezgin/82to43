@@ -1,0 +1,4 @@
+Contact: mailto:merttsezgin@gmail.com
+Expires: 2050-12-31T23:59:00Z
+Canonical: https://82to43.com/.well-known/security.txt
+Preferred-Languages: tr, en
